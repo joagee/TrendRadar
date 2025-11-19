@@ -13,9 +13,6 @@ HarmonyOS
 比亚迪
 王传福
 
-宇树
-王兴兴
-
 字节
 bytedance
 张一鸣
